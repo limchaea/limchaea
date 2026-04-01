@@ -19,36 +19,73 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack
 
+<h1 align="center">Hi there 👋</h1>
+
+<p align="center">
+  Frontend Developer
+</p>
+
+---
+
 ### 💻 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+</p>
 
 ### ⚙️ Framework & Library
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25"/>
+</p>
 
 ### 🧠 State & Styling
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge" height="25"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25"/>
+</p>
 
 ### 🔧 Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### 🚀 Deployment
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" height="25"/>
+</p>
 
 ### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=31A8FF)
-![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobe&logoColor=FF9A00)
-![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobe&logoColor=FF3366)
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" height="25"/>
+  <img src="https://img.shields.io/badge/InDesign-49021F?style=for-the-badge" height="25"/>
+</p>
 
 ### 🤝 Collaboration & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" height="25"/>
+</p>
+
+---
+
+## 📂 Projects
+
+### 🩴 CROCS KOREA (쇼핑몰 리뉴얼)
+- Tech: HTML, CSS, JavaScript  
+- Deploy: Netlify  
+- Live: https://your-netlify-url.com  
+
+### 🎬 Disney Plus (클론 프로젝트)
+- Tech: React, Next.js, Zustand  
+- Deploy: Vercel  
+- Live: https://your-vercel-url.com  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limchaea&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limchaea&layout=compact"/>
+</p>
