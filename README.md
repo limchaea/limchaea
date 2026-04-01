@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF&v=1)
-![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00&v=1)
-![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366&v=1)
+![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge&logo=adobe&logoColor=FF9A00)
+![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge&logo=adobe&logoColor=FF3366)
 
 ### 🤝 Collaboration & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
