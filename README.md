@@ -1,4 +1,4 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
 <!--
 **limchaea/limchaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-----
+---
 
-#### 🛠 Tech Stack
+<h4 align="center">🛠 Tech Stack</h4>
 
-##### 💻 Frontend
-<p>
+<h5 align="center">💻 Frontend</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
@@ -29,21 +29,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="20"/>
 </p>
 
-##### 🎨 Styling & State
-<p>
+<h5 align="center">🎨 Styling & State</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square" height="20"/>
 </p>
 
-##### 🔧 Backend & Data
-<p>
+<h5 align="center">🔧 Backend & Data</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" height="20"/>
 </p>
 
-##### 🛠 Tools
-<p>
+<h5 align="center">🛠 Tools</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobe&logoColor=31A8FF" height="20"/>
   <img src="https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobe&logoColor=FF9A00" height="20"/>
