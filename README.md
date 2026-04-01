@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <h5 align="center">🛠 Tools</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat-square&logo=adobe&logoColor=31A8FF" height="20"/>
-  <img src="https://img.shields.io/badge/Illustrator-330000?style=flat-square&logo=adobe&logoColor=FF9A00" height="20"/>
-  <img src="https://img.shields.io/badge/InDesign-49021F?style=flat-square&logo=adobe&logoColor=FF3366" height="20"/>
+  <img src="https://img.shields.io/badge/Photoshop-2E9BE7?style=flat-square&logo=adobe&logoColor=31A8FF" height="20"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=FF9A00" height="20"/>
+  <img src="https://img.shields.io/badge/InDesign-FF3C6A?style=flat-square&logo=adobe&logoColor=FF3366" height="20"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="20"/>
